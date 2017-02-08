@@ -5,7 +5,7 @@ theme = "hemingway2"
 copyright = "&copy; <a href=\"https://github.com/briangorter078\">Brian Gorter</a> 2017"
 disqusShortname = "BMG"
 googleAnalytics = "UA-91629503-1"
-description = "Your personal description"
+description = "Working for greatness"
 keywords = ["Brian Gorter", "Blog"]
 
 [taxonomies]
