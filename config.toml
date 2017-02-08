@@ -1,12 +1,12 @@
 baseurl = "https://gentle-woodland-31291.herokuapp.com/"
 languageCode = "nl"
-title = "KC Dordrecht"
+title = "Brian Gorter"
 theme = "hemingway2"
 copyright = "&copy; <a href=\"https://github.com/briangorter078\">Brian Gorter</a> 2017"
-disqusShortname = "shortname"
+disqusShortname = "BMG"
 googleAnalytics = "UA-91629503-1"
 description = "Your personal description"
-keywords = ["KC Dordrecht", "Blog"]
+keywords = ["Brian Gorter", "Blog"]
 
 [taxonomies]
 tag = "tags"
